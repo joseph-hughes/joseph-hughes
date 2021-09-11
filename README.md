@@ -1,0 +1,4 @@
+- :computer: Software Engineer 2 at [Root Inc.](https://github.com/Root-App)
+- :books: Computer Science and Engineering student at The Ohio State University
+  - Class of 2023
+- :link: [LinkedIn](www.linkedin.com/in/joseph-hughes-profile)
