@@ -1,4 +1,3 @@
 - :computer: Senior Software Engineer at [Root Inc.](https://github.com/Root-App)
-- :books: Computer Science and Engineering student at The Ohio State University
-  - Class of 2023
+- :books: Computer Science and Engineering graduate from The Ohio State University
 - :link: [LinkedIn](www.linkedin.com/in/joseph-hughes-profile)
